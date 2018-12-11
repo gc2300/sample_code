@@ -1,0 +1,15 @@
+
+=================================================
+Start date & time --- (Sun Dec  9 22:33:31 2018)
+=================================================
+Input image: data/PIA22841.tif
+Output directory: spfeas_output
+Bands: 1
+Smoothing: 0
+Block size: 2
+Scales: 8
+Contextual features: mean
+SFS stopping threshold: 40
+Did NOT compute features as neighbors
+Did NOT perform histogram equalization
+Did NOT perform adaptive histogram equalization
