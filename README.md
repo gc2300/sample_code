@@ -1,6 +1,6 @@
-# Code and map samples
+# Code and mapping examples
 
-This repo contains mapping examples and notebooks for processing and analyzing satellite images, running network analysis using a list of libraries: spfeas, mpglue, osmnx, and networkx. 
+This repo contains mapping examples and notebooks for processing and analyzing satellite images and running network analysis using a list of libraries: spfeas, mpglue, osmnx, and networkx. 
 
 This repo contains three folders:
 
